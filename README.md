@@ -29,3 +29,35 @@ conda env create --file environment.yml
 - play it and enjoy(hopefully)
 
 ![Colab-Open](img/colab.png) 
+
+## Citation 
+If you find this material useful for your research, please consider cite our paper(s):
+
+- Zhengchun Liu, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster, "Deep Learning Accelerated Light Source Experiments," 2019 IEEE/ACM Third Workshop on Deep Learning on Supercomputers (DLS), Denver, CO, USA, 2019, pp. 20-28, doi: 10.1109/DLS49591.2019.00008.
+
+- Zhengchun Liu, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo, and Ian Foster, "TomoGAN: low-dose synchrotron x-ray tomography with generative adversarial networks: discussion," J. Opt. Soc. Am. A 37, 422-434 (2020)
+
+Or via bibtex
+```
+@inproceedings{liu2019deep,
+    title={Deep Learning Accelerated Light Source Experiments},
+    author={Zhengchun Liu and Tekin Bicer and Rajkumar Kettimuthu and Ian Foster},
+    year={2019},
+    booktitle={2019 IEEE/ACM Third Workshop on Deep Learning on Supercomputers (DLS)},
+    pages={20--28},
+    doi={10.1109/DLS49591.2019.00008}
+}
+
+@article{liu2020tomogan,
+  title={TomoGAN: low-dose synchrotron x-ray tomography with generative adversarial networks: discussion},
+  author={Liu, Zhengchun and Bicer, Tekin and Kettimuthu, Rajkumar and Gursoy, Doga and De Carlo, Francesco and Foster, Ian},
+  journal={Journal of the Optical Society of America A},
+  volume={37},
+  number={3},
+  pages={422--434},
+  year={2020},
+  doi={10.1364/JOSAA.375595},
+  publisher={Optical Society of America}
+}
+
+```
