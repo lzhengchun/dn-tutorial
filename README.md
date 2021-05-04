@@ -33,8 +33,6 @@ conda env create --file environment.yml
 - Choose and hit a notebook that you want to run.
 - play it and enjoy(hopefully)
 
-![Colab-Open](img/colab.png) 
-
 ## Citation 
 If you find this material useful for your research, please consider cite our paper(s):
 
