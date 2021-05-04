@@ -1,0 +1,14 @@
+name: dn-tutorial
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.7.*
+  - numpy
+  - pandas
+  - matplotlib
+  - tensorflow
+  - imageio
+  - h5py
+  - scikit-image
+  - pip
