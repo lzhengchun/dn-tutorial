@@ -10,6 +10,11 @@ The tutorial is currently composed of three notebooks:
 
 The notebooks are designed to be easy to use on the cloud or on your own systems.
 
+### Try in on Binder
+
+without installing anything locally.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lzhengchun/dn-tutorial/HEAD)
+
 ### Running Locally
 
 The environment needed for the notebook is described in [`environment.yml`](./environment.yml)
